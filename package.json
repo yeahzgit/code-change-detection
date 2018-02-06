@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node main.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "check-commit": "echo \"git hook test\""
+    "check-commit": "echo 'git hook test'"
   },
   "repository": {
     "type": "git",
